@@ -2,8 +2,6 @@
 
 - 🌱 Outstanding professional command of English and almost all computer languages **.**
 
-- 👯 I am open to possibilities of collaboration in Marseille **.**
-
 - 🤝 I am open to any suggestions or help **.**
 
 - 📫 Contact me at : **mowgli.zqq@gmail.com**
