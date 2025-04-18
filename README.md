@@ -8,7 +8,6 @@
 
 - 📄 Discover my expertise: Cybersecurity expert, specializing in data protection and attack services. [.](.)
 
-- ⚡ Fun fact : **Nothing makes me happier than solitude.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
