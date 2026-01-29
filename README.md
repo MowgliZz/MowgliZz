@@ -64,9 +64,6 @@
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" alt="burpsuite" width="40" height="40"/>
 </a>
-<a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/johntheripper.svg" alt="john-the-ripper" width="40" height="40"/>
-</a>
 <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" alt="hashcat" width="40" height="40"/>
 </a>
