@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  <a href="https://discord.com/users/1158001764721774623" target="_blank" title="usqrv">
+  <a href="https://discord.com/users/680907173634899999" target="_blank" title="usqrv">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
