@@ -40,7 +40,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+       alt="rust" width="40" height="40"/>
 </a>
 
 <!-- OS & Platforms -->
@@ -63,6 +64,10 @@
 </a>
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" alt="burpsuite" width="40" height="40"/>
+</a>
+<a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
+  <img src="https://www.openwall.com/logo/john-logo.png"
+       alt="john-the-ripper" width="40" height="40"/>
 </a>
 <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" alt="hashcat" width="40" height="40"/>
