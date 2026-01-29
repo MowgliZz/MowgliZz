@@ -6,7 +6,7 @@
 
 - 📫 Contact me at : **mowgli.zqq@gmail.com**
 
-- 📄 Discover my expertise : Cybersecurity expert, specializing in data protection and attack services. [.](.)
+- 📄 Discover my expertise : Cybersecurity expert, specializing in data protection and attack services **.**
 
 
 <h3 align="left">Connect with me :</h3>
