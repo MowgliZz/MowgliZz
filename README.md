@@ -39,10 +39,6 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-       alt="rust" width="40" height="40"/>
-</a>
 
 <!-- OS & Platforms -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -64,9 +60,6 @@
 </a>
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" alt="burpsuite" width="40" height="40"/>
-</a>
-<a href="https://www.openwall.com/john/" target="_blank">
-  <img src="https://img.shields.io/badge/John%20The%20Ripper-Cracking-red?style=for-the-badge&logo=linux&logoColor=white"/>
 </a>
 <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" alt="hashcat" width="40" height="40"/>
