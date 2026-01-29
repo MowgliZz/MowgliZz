@@ -9,9 +9,17 @@
 - 📄 Discover my expertise: Cybersecurity expert, specializing in data protection and attack services. [.](.)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://discordlookup.com/user/1158001764721774623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordlookup.com/user/1158001764721774623" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1158001764721774623" target="_blank" title="usqrv">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="Discord: usqrv"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
